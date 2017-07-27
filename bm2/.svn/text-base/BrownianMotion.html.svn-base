@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=Shift_JIS">
+<title>ブラウン運動</title>
+<style type="text/css"><!--
+body { color:#000000; background-color:#eeffdd;}
+--></style>
+</head>
+
+<body>
+ブラウン運動<BR>
+<applet CODE="BrownianMotion.class" WIDTH=1200 HEIGHT=800>
+Please confirm Java of your browser.
+</applet>
+<a href="./BrownianMotion.java">source</a><br>
+<br>
+<br>
+<br>
+</body>
+</html>
